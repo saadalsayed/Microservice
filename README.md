@@ -29,13 +29,17 @@ Run make install to install the necessary dependencies
 
 ## Running app.py
 Standalone: python app.py
+
 Run in Docker: ./run_docker.sh
+
 Run in Kubernetes: ./run_kubernetes.sh
 
 ## kubernetes Steps
 
 Configure Kubernetes to Run Locally
+
 Deploy with Kubernetes
+
 Savings Output logs in the file kubernetes.out.txt
 
 ## Cicrleci Integration 
