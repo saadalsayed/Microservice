@@ -1,6 +1,5 @@
-<include a CircleCI status badge, here>
-
 ## Operationalize a Machine Learning Microservice API
+### By saad Alsayed
 
 In this project, I deployed a containerized Python flask application to serve out predictions The appliacion was about housing prices through API call,You are given a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several feature
 the main branches i used are :
